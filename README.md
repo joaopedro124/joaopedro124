@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is João Pedro and I'm a Hobby Developer, from Brazil</h2>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joaopedro124&theme=dark-minimalist&hide_border=true" alt="GitHub Streak" /></a>
+</div>
 
 ###
 
